@@ -32,6 +32,6 @@ print(last_name)
 
 first_name = "John"
 age = 13
-favorite_color = "blue"
+favorite_color = "green"
 
 print("My name is", first_name + ", I am", age, "years old, and my favorite color is", favorite_color + ".")
