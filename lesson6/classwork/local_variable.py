@@ -4,4 +4,4 @@ def adopt_dog():
 
 adopt_dog()
 
-print(pet)
+# print(pet)
