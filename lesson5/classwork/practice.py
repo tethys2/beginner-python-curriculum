@@ -6,8 +6,6 @@
 # Count how many numbers are greater than 10 in the list.
 
 
-print(counter, "numbers are greater than 10")
-
 # Problem 3
 # Find and print the total sum of all the numbers in the list.
 
